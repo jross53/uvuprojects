@@ -40,6 +40,6 @@ F:\School\CS 3660\Projects\CSStudent\CSStudent\bin\System.Web.WebPages.Deploymen
 F:\School\CS 3660\Projects\CSStudent\CSStudent\bin\System.Web.WebPages.Razor.xml
 F:\School\CS 3660\Projects\CSStudent\CSStudent\bin\Antlr3.Runtime.pdb
 F:\School\CS 3660\Projects\CSStudent\CSStudent\bin\Newtonsoft.Json.xml
-F:\School\CS 3660\Projects\CSStudent\CSStudent\obj\Debug\CSStudent.csprojResolveAssemblyReference.cache
 F:\School\CS 3660\Projects\CSStudent\CSStudent\obj\Debug\CSStudent.dll
 F:\School\CS 3660\Projects\CSStudent\CSStudent\obj\Debug\CSStudent.pdb
+F:\School\CS 3660\Projects\CSStudent\CSStudent\obj\Debug\CSStudent.csprojResolveAssemblyReference.cache

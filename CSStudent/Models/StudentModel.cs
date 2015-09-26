@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace CSStudent.Models
@@ -13,5 +14,14 @@ namespace CSStudent.Models
         public bool CanCode { get; set; }
         public int CreditsLeft { get; set; }
         public string Advisor { get; set; }
+
+        public List<string> Advisors = new List<string>(){"Fred Orchard", "Bill", "Bob", "Joe"};
+
+        public StudentModel()
+        {
+            Advisor = "Fred Orchard";
+        }
     }
+
+    
 }

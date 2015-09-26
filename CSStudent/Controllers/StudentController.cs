@@ -80,7 +80,7 @@ namespace CSStudent.Controllers
                 {
                     canCode = !canCodeStringValue.Equals("false");
                 }
-                
+
                 StudentModel student = new StudentModel()
                 {
                     Id = id,
